@@ -1,3 +1,3 @@
 # CalculatorCamera
 
-Academic project (topic us image processing)
+Academic project (topic is image processing)
